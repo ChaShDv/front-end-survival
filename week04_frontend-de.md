@@ -77,15 +77,15 @@ app.listen(port, () => {
 
 ts-node로 실행
 
-$ npx ts-node app.ts
+`$ npx ts-node app.ts`
 
 
 
 코드를 수정 후 재실행해야함 -> 번거로움을 줄이기 위해  codemon 사용
 
-$ npm i -D nodemon&#x20;
+`$ npm i -D nodemon`&#x20;
 
-$ npx nodemon app.ts
+`$ npx nodemon app.ts`
 
 
 
