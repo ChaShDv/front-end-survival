@@ -12,3 +12,4 @@
 * [Week05\_FrontEnd DE](week05\_frontend-de.md)
 * [Week06\_ForntEnd DE](week06\_forntend-de.md)
 * [Week07\_FrontEnd DE](week07\_frontend-de.md)
+* [Week08\_FrontEnd DE](week08\_frontend-de.md)
