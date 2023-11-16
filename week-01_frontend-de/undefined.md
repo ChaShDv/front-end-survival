@@ -9,10 +9,9 @@ Keyword-focused summary
 
     FNM(Fast Node Manager) : NPM보다 더 빠른 노드 패키지 매니저
 
-    1.
-       1. package.json / package-lock.json
-          1. npx
-          2. node\_modules
+    1. package.json / package-lock.json
+       1. npx
+       2. node\_modules
 3. ES Modules vs CommonJS
 
 #### JavaScript(Node.js) 설치
